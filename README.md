@@ -22,5 +22,14 @@
 - Catch the Ghost `WEB` `110`
 
 ### ⭐️⭐️⭐️
+
 - Pale Leer `CRYPTO` `330`
 - Tough engagement `WEB` `330`
+
+### Quiz
+
+- Security Principle 1
+- Programming
+- Basic Network Security
+- Security Principle 2
+- Security Principle 3
