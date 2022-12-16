@@ -1,6 +1,6 @@
 # KPMG Cyber Security Challenge 2022 Writeups
 
-## Problems
+## Challenges
 
 ### ⭐️
 
