@@ -26,10 +26,9 @@
 - Pale Leer `CRYPTO` `330`
 - Tough engagement `WEB` `330`
 
-### Quiz
-
-- Security Principle 1
-- Programming
-- Basic Network Security
-- Security Principle 2
-- Security Principle 3
+### [Quiz](quiz)
+- [Security Principle 1](quiz/Security-Principle-1.md)
+- [Programming](quiz/Programming.md)
+- [Basic Network Security](quiz/Basic-Network-Security.md)
+- [Security Principle 2](quiz/Security-Principle-2.md)
+- [Security Principle 3](quiz/Security-Principle-3.md)
